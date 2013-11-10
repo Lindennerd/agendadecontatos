@@ -1,0 +1,16 @@
+<agenda>
+    <contatos>
+        <contato id="1">
+            <nome>
+                <primeiro_nome></primeiro_nome>
+                <sobrenome></sobrenome>
+            </nome>
+            <endereco></endereco>
+            <telefone>
+                <ddd></ddd>
+                <numero></numero>
+            </telefone>
+            <email></email>
+        </contato>
+    </contatos>
+</agenda>
